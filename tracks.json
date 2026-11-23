@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "file": "audio/clip-01.mp3",
+    "seconds": 14.85,
+    "originalSeconds": 15.73
+  },
+  {
+    "title": "U Can’t Touch This",
+    "artist": "MC Hammer",
+    "file": "audio/clip-02.mp3",
+    "seconds": 14.42,
+    "originalSeconds": 14.5
+  },
+  {
+    "title": "Freaks",
+    "artist": "Timmy Trumpet & Savage",
+    "file": "audio/clip-03.mp3",
+    "seconds": 14.44,
+    "originalSeconds": 14.52
+  },
+  {
+    "title": "Hadeland",
+    "artist": "Hjerterknekt",
+    "file": "audio/clip-04.mp3",
+    "seconds": 10.87,
+    "originalSeconds": 10.95
+  },
+  {
+    "title": "Levels",
+    "artist": "Avicii",
+    "file": "audio/clip-05.mp3",
+    "seconds": 14.85,
+    "originalSeconds": 15.39
+  },
+  {
+    "title": "Sandstorm",
+    "artist": "Darude",
+    "file": "audio/clip-06.mp3",
+    "seconds": 14.85,
+    "originalSeconds": 15.28
+  },
+  {
+    "title": "Song 2",
+    "artist": "Blur",
+    "file": "audio/clip-07.mp3",
+    "seconds": 14.85,
+    "originalSeconds": 15.7
+  },
+  {
+    "title": "Thunderstruck",
+    "artist": "AC/DC",
+    "file": "audio/clip-08.mp3",
+    "seconds": 14.85,
+    "originalSeconds": 16.88
+  },
+  {
+    "title": "Euphoria",
+    "artist": "Loreen",
+    "file": "audio/clip-09.mp3",
+    "seconds": 14.71,
+    "originalSeconds": 14.79
+  },
+  {
+    "title": "Who Let the Dogs Out",
+    "artist": "Baha Men",
+    "file": "audio/clip-10.mp3",
+    "seconds": 13.11,
+    "originalSeconds": 13.19
+  }
+]
